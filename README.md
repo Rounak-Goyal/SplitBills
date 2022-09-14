@@ -1,5 +1,5 @@
 ## SplitBills - Splitwise Clone
-Splitwise is a bill spliting application https://secure.splitwise.com, Here I have made a clone by using MERN stack
+SplitBills is a bill spliting application just like https://secure.splitwise.com, Using MERN stack
 
 ### Homepage
 ![](images/homepage.png)
